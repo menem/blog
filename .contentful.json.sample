@@ -1,4 +1,7 @@
 {
-  "spaceId": "...",
-  "accessToken": "..."
-}
+  "CTF_PERSON_ID": "15jwOBqpxqSAOy2eOO4S0m",
+  "CTF_BLOG_POST_TYPE_ID": "blogPost",
+  "CTF_SPACE_ID": "hzhjyz8uh00j",
+  "CTF_CDA_ACCESS_TOKEN": "9fac6570263ce6d0178b3684e9c8c5cc59bf69a20ef816e77e84b4c9e049d2aa",
+  "CTF_CMA_ACCESS_TOKEN": "d4244ac18a0cc607eb1b120fd18d43d65f9473287a33b5109867fa417ad2cba6"
+};
