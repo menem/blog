@@ -12,7 +12,7 @@ export default () => (
         <Link to="/blog/">Blog</Link>
       </li>
       <li className={styles.navigationItem}>
-        <Link  href="https://paper.dropbox.com/doc/AbdelMoniem-Hany-Ragab--ANBpmUA3x3zAflYjAgvCmn66AQ-bMyhaTK9XW9nDaBPjruT3">Resume</Link>
+      <a href="https://paper.dropbox.com/doc/AbdelMoniem-Hany-Ragab--ANBpmUA3x3zAflYjAgvCmn66AQ-bMyhaTK9XW9nDaBPjruT3">Resume</a>
       </li>
     </ul>
   </nav>
